@@ -1,0 +1,25 @@
+# Secretos y entorno
+.env
+.env.*
+*.pem
+*.key
+
+# Datos locales de Odoo / Postgres
+filestore/
+*.dump
+*.sql
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ajustes personales de Claude Code
+.claude/settings.local.json
+CLAUDE.local.md

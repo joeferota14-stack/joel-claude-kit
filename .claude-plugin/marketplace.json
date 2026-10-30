@@ -1,0 +1,28 @@
+{
+  "name": "joel-kit",
+  "owner": {
+    "name": "Joel"
+  },
+  "metadata": {
+    "description": "Kit personal de Joel: skills para proyectos web y Odoo",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "web-kit",
+      "description": "Inicia proyectos con la configuración estándar de Joel y revisa entregas web (SEO, UI, textos, animaciones, Odoo 19)",
+      "version": "1.0.0",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/iniciar-proyecto",
+        "./skills/revisar-entrega",
+        "./skills/odoo-19",
+        "./skills/seo-audit",
+        "./skills/web-design-guidelines",
+        "./skills/humanizer",
+        "./skills/review-animations"
+      ]
+    }
+  ]
+}

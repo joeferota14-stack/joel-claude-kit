@@ -1,0 +1,21 @@
+# Secretos y entorno
+.env
+.env.*
+
+# Dependencias y builds
+node_modules/
+dist/
+build/
+.next/
+out/
+.vercel/
+
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ajustes personales de Claude Code
+.claude/settings.local.json
+CLAUDE.local.md
