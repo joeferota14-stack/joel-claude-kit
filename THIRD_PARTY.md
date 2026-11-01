@@ -8,7 +8,7 @@ Revisadas y copiadas el 2026-10-30. Cada carpeta conserva su archivo de licencia
 | `seo-audit` | [Hainrixz/claude-webkit](https://github.com/Hainrixz/claude-webkit) | MIT (c) 2026 Enrique Rocha, con aviso de crédito (`NOTICE.md`) | Ninguno |
 | `humanizer` | [Hainrixz/claude-webkit](https://github.com/Hainrixz/claude-webkit) | MIT (c) 2026 Enrique Rocha, con aviso de crédito (`NOTICE.md`) | Ninguno |
 | `web-design-guidelines` | [Hainrixz/claude-webkit](https://github.com/Hainrixz/claude-webkit); autor original: Vercel | MIT (c) 2026 Enrique Rocha, con aviso de crédito (`NOTICE.md`) | Ninguno |
-| `review-animations` | [emilkowalski/skills](https://github.com/emilkowalski/skills), vía claude-webkit | MIT (c) 2026 Emil Kowalski | Ninguno |
+| `review-animations`, `emil-design-eng`, `animate`, `animation-performance`, `animation-vocabulary`, `find-animation-opportunities`, `improve-animations`, `remove-animations`, `break-ui`, `mobile-native` | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT (c) 2026 Emil Kowalski | Ninguno |
 | `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | MIT (c) 2024 Next Level Builder | Ninguno |
 
 Nota: `web-design-guidelines` descarga sus reglas desde el repositorio público `vercel-labs/web-interface-guidelines` cada vez que se usa.
