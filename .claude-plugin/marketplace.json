@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Kit personal de Joel: skills para proyectos web y Odoo",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "plugins": [
     {
       "name": "web-kit",
       "description": "Inicia proyectos con la configuración estándar de Joel y revisa entregas web (SEO, UI, textos, animaciones, Odoo 19)",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "source": "./",
       "strict": false,
       "skills": [
@@ -33,7 +33,16 @@
         "./skills/break-ui",
         "./skills/mobile-native",
         "./skills/security-audit"
-      ]
+      ],
+      "mcpServers": {
+        "21st": {
+          "type": "http",
+          "url": "https://21st.dev/api/mcp",
+          "headers": {
+            "x-api-key": "${TWENTYFIRST_API_KEY}"
+          }
+        }
+      }
     }
   ]
 }

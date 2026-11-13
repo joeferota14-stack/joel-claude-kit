@@ -28,6 +28,17 @@ Cambia `joeferota14-stack` por tu usuario de GitHub.
 
 `iniciar-proyecto` y `revisar-entrega` solo se ejecutan cuando tú las llamas.
 
+## MCP incluido: 21st.dev
+
+El plugin trae el servidor MCP de 21st.dev (componentes de UI). La API key **no** está en el repositorio: se lee de la variable de entorno `TWENTYFIRST_API_KEY`.
+
+Una vez por computadora, antes de abrir Claude Code:
+
+- Windows (PowerShell): `setx TWENTYFIRST_API_KEY "tu_key"` y luego cierra y abre VS Code.
+- Mac/Linux: agrega `export TWENTYFIRST_API_KEY="tu_key"` a `~/.zshrc` o `~/.bashrc`.
+
+Comprueba con `/mcp` que `21st` aparezca conectado.
+
 ## Actualizar
 
 1. Edita las skills en este repositorio, haz commit y push.
