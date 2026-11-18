@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Kit personal de Joel: skills para proyectos web y Odoo",
-    "version": "1.4.1"
+    "version": "1.5.0"
   },
   "plugins": [
     {
       "name": "web-kit",
       "description": "Inicia proyectos con la configuración estándar de Joel y revisa entregas web (SEO, UI, textos, animaciones, Odoo 19)",
-      "version": "1.4.1",
+      "version": "1.5.0",
       "source": "./",
       "strict": false,
       "skills": [
@@ -32,7 +32,8 @@
         "./skills/remove-animations",
         "./skills/break-ui",
         "./skills/mobile-native",
-        "./skills/security-audit"
+        "./skills/security-audit",
+        "./skills/crear-agente"
       ]
     }
   ]

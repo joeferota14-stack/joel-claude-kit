@@ -25,6 +25,7 @@ Cambia `joeferota14-stack` por tu usuario de GitHub.
 | `/web-kit:humanizer` | Quita a los textos el tono de "escrito por IA" |
 | `/web-kit:review-animations` | Revisión de animaciones |
 | `odoo-19` | Se activa sola cuando trabajas con código de Odoo 19 |
+| `/web-kit:crear-agente` | Guía paso a paso para crear un agente de IA en Cloudflare (también se activa al decir "quiero automatizar...") |
 
 `iniciar-proyecto` y `revisar-entrega` solo se ejecutan cuando tú las llamas.
 
